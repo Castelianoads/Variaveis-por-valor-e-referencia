@@ -35,33 +35,5 @@ public class Principal {
         pessoaB.setNome("Ana\n");
 
         System.out.println(pessoaA.getNome());
-
-
-    
-
-        
-
-
-
-
- 
-        
-        
-        /*
-        Referencia classeReferencia = new Referencia(1000); // Instanciando a classe Referencia
-        classeReferencia.peso(); // exercicio 2 da classe referencia
-
-        int[] valorReferencia = new int[]{5, 4, 3, 2, 1}; // referencia
-
-        classeReferencia.somar(valorReferencia); // altera o valor
-        for (int i = 0; i < valorReferencia.length; i++){
-            System.out.println("Método testar da classe Referencia, valor da variavel: " +valorReferencia[i]);
-        }  
-        System.out.println(" ");
-
-        classeReferencia.multiplicar(valorReferencia); // altera o valor
-        for (int i = 0; i < valorReferencia.length; i++){
-            System.out.println("Método multiplicar da classe Referencia, valor da variavel: " +valorReferencia[i]);
-        }   */     
     }       
 }

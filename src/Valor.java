@@ -11,10 +11,10 @@ public class Valor {
     }
 
     public void somar(int numero) { // Metodo 1
-        numero = 9000;
+        this.numero = 9000;
     }
 
     public void multiplicar(int numero) { // Metodo 2
-        numero = 8000;
+        this.numero = 8000;
     }
 }
